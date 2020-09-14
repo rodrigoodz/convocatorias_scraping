@@ -1,0 +1,1 @@
+Web Scraping del sitio de convocatorias a pasantias de UNL-FICH. Para esto se usó [puppeteer](https://www.npmjs.com/package/puppeteer) como headless-browser y [jsdom](https://www.npmjs.com/package/jsdom) para realizar el scraping.
